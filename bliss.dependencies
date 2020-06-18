@@ -4,5 +4,11 @@
         "repository": "BlissRoms-Devices/android_device_samsung_universal8895-common",
         "target_path": "device/samsung/universal8895-common",
         "revision": "q"
+    },
+    {
+        "remote": "github",
+        "repository": "BlissRoms-Devices/proprietary_vendor_samsung_dream2lte",
+        "target_path": "vendor/samsung/dream2lte",
+        "revision": "q"
     }
 ]
