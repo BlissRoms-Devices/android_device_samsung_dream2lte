@@ -43,3 +43,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="dream2ltexx-user 8.0.0 R16NW G955FXXU1CRC7 release-keys"
 
 BUILD_FINGERPRINT := samsung/dream2ltexx/dreamlte:8.0.0/R16NW/G955FXXU1CRC7:user/release-keys
+
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.bliss.maintainer=ideaman924
